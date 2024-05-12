@@ -10,19 +10,17 @@ Použité součástky a zapojení:
 ESP32 	- Báze a mikrokontroler
 LM393 	- Měřič vlhkosti
 
-	VCC 		     - 3,3V
-	GND 		     - GND pin
+	VCC 		 - 3,3V
+	GND 		 - GND pin
 	Výstupní pin - pin 14
 	
 HC-SR04 - Měřič vzdálenosti
 
 	Trigger pin - pin 12
-	Echo pin 	  - pin 13
-	VCC 		    - 5V
-	GND			    - GND pin
+	Echo pin 	- pin 13
+	VCC 		- 5V
+	GND		- GND pin
 
- 
-Schéma
 ![tinkr](https://github.com/Trpaslik18/Lama-sdrc-tr-vy/assets/167974133/75b09fe3-aa44-4fb0-aa46-0bbfb3815bec)
 
 Návod na použití
