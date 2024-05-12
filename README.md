@@ -1,5 +1,6 @@
 # Lama-sdrc-tr-vy
 
+[Coggle](https://coggle.it/diagram/ZijNrVY0PmVeknkb/t/lama%C4%8D-srdc%C3%AD-tr%C3%A1vn%C3%ADk%C5%AF)
 Projekt Měření vzdálenosti a vlhkosti Trávy pomocí HC-SR04 a LM393 s ESP32
 
 ![logo](https://github.com/Trpaslik18/Lama-sdrc-tr-vy/assets/167974133/11cb93bc-a34f-4827-bbb2-ec8f9073593a)
