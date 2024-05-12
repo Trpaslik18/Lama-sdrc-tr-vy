@@ -2,6 +2,8 @@
 
 Projekt Měření vzdálenosti a vlhkosti Trávy pomocí HC-SR04 a LM393 s ESP32
 
+![logo](https://github.com/Trpaslik18/Lama-sdrc-tr-vy/assets/167974133/11cb93bc-a34f-4827-bbb2-ec8f9073593a)
+
 Úvod
 Dokumentace popisuje projekt na bázi ESP32, který kombinuje schopnosti HC-SR04 a LM393 
 a ukazuje jejich výsledek na webové stránce na mobiním telefonu či počítači.
