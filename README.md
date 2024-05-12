@@ -1,6 +1,6 @@
 # Lama-sdrc-tr-vy
 
-Dokumentace: Projekt Měření Vzdálenosti a Stavu Trávy pomocí HC-SR04 a LM393 s ESP32
+Projekt Měření Vzdálenosti a vlhkosti Trávy pomocí HC-SR04 a LM393 s ESP32
 
 Úvod
 Dokumentace popisuje projekt na bázi ESP32, který kombinuje schopnosti HC-SR04 a LM393 
@@ -12,11 +12,11 @@ LM393 	- Měřič vlhkosti
 
 	VCC 		 - 3,3V
 	GND 		 - GND pin
-	Výstupní pin - pin 14
+	Výstupní pin 	 - pin 14
 	
 HC-SR04 - Měřič vzdálenosti
 
-	Trigger pin - pin 12
+	Trigger pin 	- pin 12
 	Echo pin 	- pin 13
 	VCC 		- 5V
 	GND		- GND pin
