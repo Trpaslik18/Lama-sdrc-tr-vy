@@ -1,6 +1,6 @@
 # Lama-sdrc-tr-vy
 
-Projekt Měření Vzdálenosti a vlhkosti Trávy pomocí HC-SR04 a LM393 s ESP32
+Projekt Měření vzdálenosti a vlhkosti Trávy pomocí HC-SR04 a LM393 s ESP32
 
 Úvod
 Dokumentace popisuje projekt na bázi ESP32, který kombinuje schopnosti HC-SR04 a LM393 
@@ -8,6 +8,7 @@ a ukazuje jejich výsledek na webové stránce na mobiním telefonu či počíta
 
 Použité součástky a zapojení:
 ESP32 	- Báze a mikrokontroler
+
 LM393 	- Měřič vlhkosti
 
 	VCC 		 - 3,3V
