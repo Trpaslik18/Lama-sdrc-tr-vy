@@ -46,5 +46,10 @@ Poznámka
 
 	Pro vylepšení přesnosti je doporučeno použít více jak jednu dvojici měřičů.
 	Tím je možno se vyvarovat nepřesnostem a možným vadám systému.
-	
-	
+
+
+Autoři
+
+	ChatGBT
+ 	Štábla
+  	Šubják
